@@ -2,7 +2,7 @@
 
 This code creates a simple web-based age calculator. Here's a breakdown of its functionalities and structure:
 
-**HTML Structure:**
+**HTML Structure**
 
 * The code uses HTML to define the basic structure of the page, including:
     * A container for the calculator components.
@@ -10,14 +10,14 @@ This code creates a simple web-based age calculator. Here's a breakdown of its f
     * A button to trigger the age calculation.
     * Output fields to display calculated years, months, and days.
 
-**CSS Styling:**
+**CSS Styling**
 
 * The code uses CSS to style the elements, defining:
     * Overall layout and positioning.
     * Colors, fonts, and borders for various elements.
     * Box shadows and rounded corners for visual appeal.
 
-**JavaScript Functionalities:**
+**JavaScript Functionalities**
 
 * The code uses JavaScript to handle user interaction and calculations:
     * `ageCalculate` function:
