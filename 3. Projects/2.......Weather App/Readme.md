@@ -29,6 +29,6 @@ The application features a clean and intuitive interface, as showcased in the pr
 
 ## Screenshots
 
-![sample-screenshot](screenshots/1.png)
-![sample-screenshot](screenshots/2.png)
-![sample-screenshot](screenshots/3.png)
+![sample-screenshot](screenshots/p.1.png)
+![sample-screenshot](screenshots/p.2.png)
+
