@@ -10,5 +10,7 @@ During this **Internship**, I successfully created tasks, including:
 - **Weather App**
    - [Visit Weather Forecast](https://weatherweb08.netlify.app/)
 
+- **Social App**
+   - [Visit Social Media DashBoard](https://socialweb08.netlify.app/)
 
 I extend heartfelt gratitude to the entire CodSoft family for turning this internship into an unforgettable odyssey. Thank you for inspiring and challenging me, fostering my growth both personally and professionally. As I step into the next chapter of my journey, I'll cherish the memories and connections formed during my time here. 🚀
