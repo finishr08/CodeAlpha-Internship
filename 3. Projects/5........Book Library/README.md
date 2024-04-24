@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://kanzatahreem.github.io/Awesome-Books-ES6/)
+[Live Demo Link](https://booklibraryweb08.netlify.app/)
 
 ### Prerequisites
 
